@@ -1,0 +1,23 @@
+{
+  "name": "puppify-api",
+  "version": "0.1.0",
+  "description": "Puppify API component",
+  "main": "app.js",
+  "author": "Senjor Developer",
+  "license": "UNLICENSED",
+  "scripts": {
+    "lint": "eslint",
+    "test": "TODO",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "config": "^1.30.0",
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "md5": "^2.2.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}
