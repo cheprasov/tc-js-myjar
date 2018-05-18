@@ -12,9 +12,9 @@ Please return to MYJAR a working, professional quality codebase. Add documentati
 
 Puppify, the flagship product of HOT-DOG INC., is a public REST API which reduces full-grown dogs back to cute puppies, taking advantage of real-life AWS Wiplala service.
 
-* **AC1.** Provide an API to puppify a dog [_80% implemented_]
-* **AC2.** Provide an API to revert a previously puppified dog [_not implemented_]
-* **AC3.** Stretch target:
+* **Criteria 1.** Provide an API to puppify a dog [_80% implemented_] - START HERE!
+* **Criteria 2.** Provide an API to revert a previously puppified dog [_not implemented_]
+* **Criteria 3.** Stretch target:
 
 As everyone knows, it is dangerous for more than 2 puppified puppies gather at a playground at the same time, as the quantum biorythms of puppification can cause a turbulent reaction due to triangular proximity.
 
