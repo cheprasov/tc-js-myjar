@@ -3,18 +3,19 @@
   "version": "0.1.0",
   "description": "Puppify API component",
   "main": "app.js",
-  "author": "Senjor Developer",
+  "author": "Senior Developer",
   "license": "UNLICENSED",
   "scripts": {
-    "lint": "eslint",
+    "lint": "node ./node_modules/.bin/eslint ./src/",
     "test": "TODO",
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "config": "^1.30.0",
     "eslint": "^4.19.1",
     "express": "^4.16.3",
-    "md5": "^2.2.1"
+    "express-validator": "^5.3.0",
+    "body-parser": "^1.18.2"
   },
   "devDependencies": {
     "eslint-config-airbnb-base": "^12.1.0",
